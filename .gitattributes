@@ -4,3 +4,5 @@
 *.tsx linguist-language=JavaScript
 ios/* linguist-vendored=true
 android/* linguist-vendored=true
+*.cpp linguist-language=C++
+*.h linguist-language=C++
