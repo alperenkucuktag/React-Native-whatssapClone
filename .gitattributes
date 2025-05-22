@@ -2,5 +2,5 @@
 *.jsx linguist-language=JavaScript
 *.ts linguist-language=JavaScript
 *.tsx linguist-language=JavaScript
-ios/* linguist-vendored
-android/* linguist-vendored
+ios/* linguist-vendored=true
+android/* linguist-vendored=true
