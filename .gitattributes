@@ -1,0 +1,6 @@
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.ts linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
+ios/* linguist-vendored
+android/* linguist-vendored
